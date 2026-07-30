@@ -11,9 +11,10 @@ Recording my journey toward HackMIT 2026 as I build my embedded systems and elec
 ## Roadmap (Tentative) 
 
 ### Week 1
-- [ ] ESP32 fundamentals
+- [x ] ESP32 fundamentals
 - [ ] PWM
 - [ ] Interrupts
+- [ ] Mini Door Lock Systen with RFID 
 - [ ] Flappy Bird (TFT)
 
 ### Week 2
